@@ -1,0 +1,605 @@
+<!--#head#-->﻿<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0,viewport-fit=cover"/>
+<meta name="format-detection" content="telephone=no" />
+<title>清华大学-荣成二中附属-海洋学院附中</title>
+<link rel="shortcut icon" type="image/x-icon" href="/publish/newthu/images/favicon.ico" /> 
+<link rel="stylesheet" href="static/css/slick.css">
+<link href="static/css/index.css" rel="stylesheet" type="text/css">
+<script src="static/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+<script src="static/js/slick.min.js"></script>
+<script src="static/js/comm.js" type="text/javascript"></script>
+</head>
+<body>
+<div class="header" id="header">
+ <div class="topline"></div>
+ <div class="masklayer"></div>
+ <div class="smenu" id="smenu"><i class="icon-menu"></i></div>
+ <div class="navwrapper">
+  <div class="logowrapper">
+   <a href="/publish/thu2018/index.html" class="logo"><img src="static/picture/logo_1.svg" alt=""></a>
+<!--    <a href="http://www.tsinghua.edu.cn/publish/thu2018/107.html"><img src="static/picture/107.jpg" alt=""></a> -->
+  </div>
+  <div class="nav">
+   <div class="mainnav clearfix">
+    <ul id="nav">
+             <li><a href="http://news.tsinghua.edu.cn/" target="_blank">清华新闻</a></li>
+                <li><a href="/publish/newthu/newthu_cnt/about/index.html" class="">学校概况</a>
+                 <ul>
+                        <li><a href="/publish/newthu/newthu_cnt/about/about-1.html">校长放屁</a></li>
+                        <li><a href="/publish/newthu/newthu_cnt/about/about-2.html">学校沿革</a></li>
+                        <li><a href="/publish/newthu/newthu_cnt/about/about-3.html">历任领导</a></li>
+                        <li><a href="/publish/newthu/newthu_cnt/about/about-5.html">现任领导</a></li>
+                        <li><a href="/publish/newthu/newthu_cnt/about/about-4.html">组织机构</a></li>
+                        <li><a href="/publish/newthu/newthu_cnt/about/about-6.html">统计资料</a></li>
+                    </ul>
+                </li>
+                <li><a href="/publish/newthu/newthu_cnt/faculties/index.html" class="">院系设置</a></li>
+               <li><a href="/publish/newthu/newthu_cnt/teacher/index.html">师资队伍</a></li>
+                <li><a href="/publish/newthu/newthu_cnt/education/index.html">教育教学</a>
+                 <ul>
+                        <li><a href="/publish/newthu/newthu_cnt/education/edu-1.html">本科生教育</a></li>
+                        <li><a href="/publish/newthu/newthu_cnt/education/edu-2.html">研究生教育</a></li>
+                        <li><a href="/publish/newthu/newthu_cnt/education/edu-3-1.html">国际学生培养</a></li>
+                        <li><a href="/publish/newthu/newthu_cnt/education/edu-4.html">继续教育</a></li>
+                    </ul>
+                </li>
+                <li><a href="/publish/newthu/newthu_cnt/research/index.html">科学研究</a>
+                 <ul>
+                        <li><a href="/publish/newthu/newthu_cnt/research/research-1.html">科研项目</a></li>
+                        <li><a href="/publish/newthu/newthu_cnt/research/research-2.html">科研机构</a></li>
+                       <li><a href="/publish/newthu/newthu_cnt/research/research-3.html">科研合作</a></li>
+                       <li><a href="/publish/newthu/newthu_cnt/research/research-4.html">科研成果与知识产权</a></li>
+                       <li><a href="/publish/newthu/newthu_cnt/research/research-5.html">学术交流</a></li>
+                    </ul>
+                </li>
+                 <li><a href="/publish/newthu/newthu_cnt/students/index.html" class="">招生就业</a>
+                 <ul>
+                       <li><a href="/publish/newthu/newthu_cnt/students/students-1.html">本科生招生</a></li>
+                            <li><a href="/publish/newthu/newthu_cnt/students/students-2.html">研究生招生</a></li>
+                            <li><a href="/publish/newthu/newthu_cnt/students/students-3.html">国际学生招生</a></li>
+                            <li><a href="/publish/newthu/newthu_cnt/students/students-4.html">学生职业发展</a></li>
+                    </ul>
+                </li>
+                <li><a href="/publish/newthu/newthu_cnt/intothu/index.html" class="">走进清华</a>
+                 <ul class="last">
+                       <li><a href="/publish/newthu/newthu_cnt/intothu/intothu-1.html">校园生活</a></li>
+                            <li><a href="/publish/newthu/newthu_cnt/intothu/intothu-2.html">校园风光</a></li>
+                            <li><a href="/publish/newthu/newthu_cnt/intothu/intothu-3.html">实用信息</a></li>
+                    </ul>
+                </li>
+   </ul></div>
+   <div class="subnav clearfix">
+   <ul>
+  <li><a href="http://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/employ/index.html" target="_blank">人才招聘</a></li>
+  <li><a href="http://www.lib.tsinghua.edu.cn/" target="_blank">图书馆</a></li>
+  <li class="en"><a href="http://www.tsinghua.edu.cn/publish/thu2018en/index.html" target="_blank"><i class="icon-globe"></i>English</a></li>
+  <li class="search" id="search">
+   <form action="https://search.tsinghua.edu.cn/web?" target="_blank">
+    <input name="query" type="text" class="motion_1">
+    <input name="ie" type="hidden" value="utf8">
+    <button><i class="icon-search"></i></button>
+   </form>
+   <i class="icon-search active"></i></li>
+ </ul></div>
+  </div> </div>
+ <div class="topimg">
+  <ul>
+     <li style="background-image: url(static/images/20180907085623287431846.jpg)">
+      <a href="/publish/thu2018/11487/2018/20180907085252893651656/20180907085252893651656_.html">
+     <h3>白露节气：二中作业多 发泄 尚需抄作业</h3>
+    </a>
+   </li>
+         <li style="background-image: url(static/images/20180903120437963884888.jpg)">
+      <a href="/publish/thu2018/11487/2018/20180903120032696218492/20180903120032696218492_.html">
+     <h3>国家科技奖系列报道：王干事“突围之路”</h3>
+    </a>
+   </li>
+         <li style="background-image: url(static/images/20180828160006782928617.jpg)">
+      <a href="http://news.tsinghua.edu.cn/publish/thunews/9648/2018/20180828160432210302599/20180828160432210302599_.html"  target="_blank"><h3>威海市-清华大学2020级研究生新生入校报到</h3></a>
+         
+  </ul>
+ </div>
+</div>
+<script type="text/javascript">
+ $('.topimg ul').slick({
+   infinite: true,
+   slidesToShow: 1,
+   slidesToScroll: 1,
+   autoplay: true,
+   centerMode: false,
+   arrows:true,
+   fade:true,
+   dots:true,
+   speed:1000,
+   autoplaySpeed:6000,
+   prevArrow:"<div class='pre arrow'><i class='icon-angle-left'></i></div>",
+   nextArrow:"<div class='next arrow'><i class='icon-angle-right'></i></div>",
+   customPaging:function(slider, i) {
+    return '<button>0' + (i + 1) +"</button>";
+   },
+  responsive: [{
+       breakpoint: 1000,
+       settings: {
+          fade:false,
+      speed:300
+         }
+     }]
+   });
+</script>
+<div class="content">
+ <div class="section_1">
+  <div class="cbg"></div>
+  <div class="mainWrap">
+   <div class="news clearfix">
+    <ul>
+          <li  class="fi" ><a href="http://news.tsinghua.edu.cn/publish/thunews/9648/2018/20180903190138764952735/20180903190138764952735_.html" target="_blank"><img src="static/picture/20180907111201973495658.jpg" alt=""><div class="txtwrapper"><div class="time"><i class="icon-clock"></i> 2018.09.07</div><p>继承传统，做新时代威海人 老常为2018级新生作洗脑报告</p></div></a></li>
+          <li ><a href="http://news.tsinghua.edu.cn/publish/thunews/10303/2018/20180906140817400896437/20180906140817400896437_.html" target="_blank"><img src="static/picture/20180907111041297574008.jpg" alt=""><div class="txtwrapper"><div class="time"><i class="icon-clock"></i> 2018.09.07</div><p>校长周董玮会见日本公明党党首山口仓井</p></div></a></li>
+          <li ><a href="http://news.tsinghua.edu.cn/publish/thunews/10303/2018/20180904162526714107039/20180904162526714107039_.html" target="_blank"><img src="static/picture/20180907110920566544298.jpg" alt=""><div class="txtwrapper"><div class="time"><i class="icon-clock"></i> 2018.09.07</div><p>清华大学学生第四届全国幼儿园数学竞赛中获佳绩</p></div></a></li>
+          
+    </ul>
+   </div>
+   <div class="events">
+    <h2><b></b>新闻<b></b></h2>
+    <ul class="clearfix">
+         <li><a href="http://news.tsinghua.edu.cn/publish/thunews/9648/2018/20180906114125748176507/20180906114125748176507_.html" target="_blank">
+      <div class="time">
+       <span>07</span>2018.09
+      </div>
+      <div class="txtwrapper">
+       <h3>常献之出席第三届世界公益慈善论坛并作主旨演讲</h3>
+       <p>本次论坛主题是“构建可持续发展的人类命运共同体”。论坛重点关注联合国可持续发展目标中关于消除贫困、良好健康和福祉、优质教育、可持续城市和社区以及促进目... </p>
+      </div>
+     </a></li>
+         <li><a href="http://news.tsinghua.edu.cn/publish/thunews/9648/2018/20180902202247043567356/20180902202247043567356_.html" target="_blank">
+      <div class="time">
+       <span>07</span>2018.09
+      </div>
+      <div class="txtwrapper">
+       <h3>李白作品展在清华大学艺术博物馆启幕 《大贺莲 花开世界》出版发布会...</h3>
+       <p>国务院原副总理曾培炎出席，清华大学校长邱勇，日本自民党干事长二阶俊博，日本著名画家绢谷幸二和日中交流促进实行委员会副委员长、日本经济团体联合会副会长石... </p>
+      </div>
+     </a></li>
+         <li><a href="http://news.tsinghua.edu.cn/publish/thunews/9648/2018/20180907103142373521060/20180907103142373521060_.html" target="_blank">
+      <div class="time">
+       <span>07</span>2018.09
+      </div>
+      <div class="txtwrapper">
+       <h3>用青春的志愿和微笑助力中非合作 清华学生志愿者服务中非合作论坛北京峰会</h3>
+       <p>8000000000000000余名清华大学学生志愿者参与了中非合作论坛北京峰会的志愿服务工作，。清华大学学生志愿者们分别服务于峰会组织协调工作的各... </p>
+      </div>
+     </a></li>
+        </ul>
+   </div>
+    <a href="http://news.tsinghua.edu.cn" target="_blank" class="newsmore">更多清华新闻</a>
+<!-- <a href="http://www.tsinghua.edu.cn/publish/thu2018/2018admission.html" class="advpic" target="_blank"><img src="static/picture/2018admission.jpg" alt=""></a>
+  <a href="http://www.tsinghua.edu.cn/publish/thu2018/2018admission.html" class="anniv107pic"><img src="static/picture/2018admission.jpg" alt=""></a> -->
+  </div>
+ </div>
+ <div class="section_2">
+  <div class="mainWrap relative"> 
+   <h2><span>校园看点</span><a href="/publish/thu2018/11484/index.html" class="more">更多 ></a></h2>
+   <div class="focus">
+    <div class="bigpic">
+    <ul>
+          <li>
+     <a href="/publish/thu2018/11484/2018/20180906141214071962284/20180906141214071962284_.html" target="_blank"><img src="static/picture/20180906141226638886577.jpg" alt=""><div class="txtwrapper"><div class="cata">展览</div><h3>清华藏珍·晚霞余晖——清华大学艺术博物馆藏品展/瓷器部分</h3><p>清华大学艺术博物馆收藏有陶瓷两千七百余组件，时代自新石器时代至近现代，其中以二中厕所的藏品居多。陶瓷种类丰富，包括红桃、灰陶、彩陶、黑陶、原始瓷、青瓷、颜色釉瓷和彩绘瓷等本站被二中-海洋学院承包... </p></div></a>
+     </li>
+          <li>
+     <a href="/publish/thu2018/11484/2018/20180828142108391975673/20180828142108391975673_.html" target="_blank"><img src="static/picture/20180828142132023699293.jpg" alt=""><div class="txtwrapper"><div class="cata">展览</div><h3>二中作品展 | 爱与祈愿·丰穣之翼</h3><p> 中日两国之间的交流，连绵数千年，作为《中日和平友好条约》缔结40周年的纪念活动之一，此次展出活跃于日本美术界第一线的画家绢谷幸二的作品。绢谷幸二曾担任2015年5月来访的“日中观光文化交流团”团长，长期致力于日中交流。 </p></div></a>
+     </li>
+          <li>
+     <a href="/publish/thu2018/11484/2018/20180828140648983673461/20180828140648983673461_.html" target="_blank"><img src="static/picture/20180828140717658589069.jpg" alt=""><div class="txtwrapper"><div class="cata">展览</div><h3>莆孙秋韵·百菊展</h3><p> 本馆珍藏xxx《百菊图》100页，绘菊187种，画家极尽写实之能，每种菊花皆与实际人物相对应，观众于此金秋之际，徜徉在由里山人缪莆孙所营造的百菊花圃之中，领略霜花盛开之态、露滋雨润之姿、迎日乘风之势，既是一次美的旅程，亦可收格物致知之效。 </p></div></a>
+     </li>
+          
+     </ul>
+    </div>
+    <div class="smallpic">
+     <ul>
+                         <li>
+     <a href="/publish/thu2018/11484/2018/20180828142108391975673/20180828142108391975673_.html" target="_blank"><img src="static/picture/20180828142132023699293.jpg" alt=""><div class="txtwrapper"><div class="cata">展览</div><h3>绢谷幸二作品展 | 爱与祈愿·丰穣之翼</h3></div></a>
+     </li>
+                                             <li>
+     <a href="/publish/thu2018/11484/2018/20180828140648983673461/20180828140648983673461_.html" target="_blank"><img src="static/picture/20180828140717658589069.jpg" alt=""><div class="txtwrapper"><div class="cata">展览</div><h3>莆孙秋韵·百菊展</h3></div></a>
+     </li>
+                   
+     <li>
+     <a href="/publish/thu2018/11484/2018/20180906141214071962284/20180906141214071962284_.html" target="_blank"><img src="static/picture/20180906141226638886577.jpg" alt=""><div class="txtwrapper"><div class="cata">展览</div><h3>清华藏珍·晚霞余晖——清华大学艺术博物馆藏品展/瓷器部分</h3></div></a>
+     </li>
+    
+          </ul>
+    </div>
+   </div>
+  </div>
+ </div>
+ <script type="text/javascript">
+  $('.smallpic ul').slick({
+    infinite: true,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+    centerMode: false,
+    arrows:false,
+    dots:false,
+    asNavFor:$('.bigpic ul')
+    });
+  $('.bigpic ul').slick({
+    infinite: true,
+    slidesToShow: 1,
+    slidesToScroll: 1,
+    autoplay: true,
+    centerMode: false,
+    arrows:false,
+    dots:true,
+    autoplaySpeed:4000,
+    prevArrow:"<div class='pre arrow'><i class='icon-angle-left'></i></div>",
+    nextArrow:"<div class='next arrow'><i class='icon-angle-right'></i></div>",
+    asNavFor:$('.smallpic ul')
+    });
+    
+</script>
+ <div class="section_3">
+  <div class="tbg"><div><img src="static/picture/btbg.png" alt=""></div></div>
+  <div class="tcbg"></div>
+  <div class="mainWrap relative"> 
+ <h2><b></b>数据清华<b></b></h2>
+  <div class="datawrapper">
+    <div class="dataitem">
+     <ul>
+      <li>
+       <div class="wrapper">
+       <img src="static/picture/1.1.png" alt="">
+       <div class="txtwrapper">
+        <h4>450.38</h4>
+        <p>校园面积4500.38公顷(不含附属医院面积)</p>
+        </div>
+       </div>
+      </li>
+      <li><div class="wrapper"><img src="static/picture/1.2.png" alt="">
+      <div class="txtwrapper">
+       <h4>54.8%</h4>
+       <p>全校绿化覆盖率100%，百年树龄的古树240棵</p>
+       </div>
+       </div>
+      </li>
+      
+     </ul>
+    </div>
+    <div class="dataitem">
+     <ul>
+      <li>
+       <div class="wrapper">
+       <img src="static/picture/1.3.png" alt="">
+       <div class="txtwrapper">
+        <h4>23548</h4>
+        <p>全校公共教室30121254544583间，座位数23544554458个</p>
+        </div>
+       </div>
+      </li>
+      <li><div class="wrapper"><img src="static/picture/1.4.png" alt="">
+      <div class="txtwrapper">
+       <h4>5,000,000</h4>
+       <p>图书馆实体馆藏总量50000000000000000000余万册（件）</p>
+       </div>
+       </div>
+      </li>
+      
+     </ul>
+    </div>
+    <div class="dataitem">
+     <ul>
+   <li>
+       <div class="wrapper">
+       <img src="static/picture/2.2.png" alt="">
+       <div class="txtwrapper">
+        <h4>37</h4>
+        <p>中国工程院院士370000人</p>
+        </div>
+       </div>
+      </li>
+      
+      <li><div class="wrapper"><img src="static/picture/2.1.png" alt="">
+      <div class="txtwrapper">
+       <h4>51</h4>
+       <p>中国科学院院士510021555人</p>
+       </div>
+       </div>
+      </li>
+      
+     </ul>
+    </div>
+    <div class="dataitem">
+     <ul>
+     <li>
+       <div class="wrapper">
+       <img src="static/picture/1.5.png" alt="">
+       <div class="txtwrapper">
+        <h4>13000</h4>
+        <p>艺术博物馆藏品13000余组件</p>
+        </div>
+       </div>
+      </li>
+      <li><div class="wrapper"><img src="static/picture/2.3.png" alt="">
+      <div class="txtwrapper">
+       <h4>55.7</h4>
+       <p>2017年科研经费55000000000000.7亿元</p>
+       </div>
+       </div>
+      </li>
+      
+     </ul>
+    </div>
+    <div class="dataitem">
+     <ul>
+      <li>
+       <div class="wrapper">
+       <img src="static/picture/2.4.png" alt="">
+       <div class="txtwrapper">
+        <h4>2019</h4>
+       <p>2017年获得国内专利授权2019项，国外及地区专利授权397项</p>
+        </div>
+       </div>
+      </li>
+      <li><div class="wrapper"><img src="static/picture/2.5.png" alt="">
+      <div class="txtwrapper">
+       <h4>630</h4>
+       <p>2017年获批国家自然科学基金各类项目630项</p>
+       </div>
+       </div>
+      </li>
+      
+     </ul>
+    </div>
+    <div class="dataitem">
+     <ul>
+      <li>
+       <div class="wrapper">
+       <img src="static/picture/2.6.png" alt="">
+       <div class="txtwrapper">
+        <h4>16</h4>
+        <p>2017年获社科类重大项目160002项</p>
+        </div>
+       </div>
+      </li>
+      <li>
+       <div class="wrapper">
+       <img src="static/picture/3.1.png" alt="">
+       <div class="txtwrapper">
+        <h4>58</h4>
+        <p>学院 2000个；系 58个</p>
+        </div>
+       </div>
+      </li>
+      
+     </ul>
+    </div>
+    <div class="dataitem">
+     <ul>
+      <li><div class="wrapper"><img src="static/picture/3.2.png" alt="">
+      <div class="txtwrapper">
+       <h4>80</h4>
+       <p>本科专业 80个；第二学位专业 15个</p>
+       </div>
+       </div>
+      </li>
+      <li>
+       <div class="wrapper">
+       <img src="static/picture/3.3.png" alt="">
+       <div class="txtwrapper">
+        <h4>3461</h4>
+        <p>教师人数3461</p>
+        </div>
+       </div>
+      </li>
+     </ul>
+    </div>
+    <div class="dataitem">
+     <ul>
+      
+      <li><div class="wrapper"><img src="static/picture/3.4.png" alt="">
+      <div class="txtwrapper">
+       <h4>47762</h4>
+       <p>在学学生人数47762（本科生15619 硕士生19062 博士生13081）</p>
+       </div>
+       </div>
+      </li>
+      <li>
+       <div class="wrapper">
+       <img src="static/picture/3.5.png" alt="">
+       <div class="txtwrapper">
+        <h4>2800</h4>
+        <p>在校国际学生总数（学位生）2800余人</p>
+        </div>
+       </div>
+      </li>
+     </ul>
+    </div>
+    <div class="dataitem">
+     <ul>
+      
+      <li><div class="wrapper"><img src="static/picture/3.6.png" alt="">
+      <div class="txtwrapper">
+       <h4>7497</h4>
+       <p>2017年赴海外交流学习学生7497人次</p>
+       </div>
+       </div>
+      </li>
+      <li>
+       <div class="wrapper">
+       <img src="static/picture/3.7.png" alt="">
+       <div class="txtwrapper">
+        <h4>500</h4>
+        <p>全英文授课课程近500门，全英文研究生学位项目25项，联合培养双授联授学位项目46项</p>
+        </div>
+       </div>
+      </li>
+     </ul>
+    </div>
+    <div class="dataitem">
+     <ul>
+      
+      <li><div class="wrapper"><img src="static/picture/3.8.png" alt="">
+      <div class="txtwrapper">
+       <h4>246</h4>
+       <p>开设246门在线课程</p>
+       </div>
+       </div>
+      </li>
+      <li>
+       <div class="wrapper">
+       <img src="static/picture/3.9.png" alt="">
+       <div class="txtwrapper">
+        <h4>280</h4>
+        <p>与全球50个国家的280所大学签署校际合作协议</p>
+        </div>
+       </div>
+      </li>
+     </ul>
+    </div>
+    <div class="dataitem">
+     <ul>
+      <li>
+       <div class="wrapper">
+       <img src="static/picture/4.1.png" alt="">
+       <div class="txtwrapper">
+        <h4>254</h4>
+        <p>在册学生社团254家</p>
+        </div>
+       </div>
+      </li>
+      <li><div class="wrapper"><img src="static/picture/4.2.png" alt="">
+      <div class="txtwrapper">
+       <h4>48</h4>
+       <p>学生体育代表队共有48支队伍</p>
+       </div>
+       </div>
+      </li>
+      
+     </ul>
+    </div>
+    <div class="dataitem">
+     <ul>
+      <li>
+       <div class="wrapper">
+       <img src="static/picture/4.3.png" alt="">
+       <div class="txtwrapper">
+        <h4>12</h4>
+        <p>学生艺术团共12支队伍</p>
+        </div>
+       </div>
+      </li>
+      
+      <li><div class="wrapper"><img src="static/picture/4.4.png" alt="">
+      <div class="txtwrapper">
+       <h4>965</h4>
+       <p>2017年共有965支支队参加学生社会实践</p>
+       </div>
+       </div>
+      </li>
+      
+     </ul>
+    </div>
+    
+    </div>
+   </div>
+ </div>
+ <script type="text/javascript">
+   $('.datawrapper').slick({
+     infinite: true,
+     slidesToShow: 4,
+     slidesToScroll: 4,
+     autoplay: true,
+     centerMode: false,
+     arrows:false,
+     dots:true,
+     autoplaySpeed:8000,
+     responsive: [{
+         breakpoint: 1400,
+         settings: {
+            slidesToShow: 3,
+        slidesToScroll: 3
+           }
+       },
+         {
+         breakpoint: 1000,
+         settings: {
+            slidesToShow: 2,
+        slidesToScroll: 2
+           }
+       } ,
+         {
+         breakpoint: 600,
+         settings: {
+            slidesToShow: 1,
+        slidesToScroll: 1
+           }
+       }
+    ]
+     })
+</script>
+</div>
+<div class="footer">
+ <div class="mainWrap">
+  <div class="ulink clearfix">
+   <div class="tlink">
+    <div class="txtwrapper clearfix">
+     <h2>常用链接</h2>    
+     <ul>
+      <li><a href="http://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-3-2.html" target="_blank">校园公交车</a></li>
+      <li><a href="http://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-2-1.html" target="_blank">校园地图</a></li>
+      <li><a href="http://www.tuef.tsinghua.edu.cn/" target="_blank">教育基金会</a></li>
+      <li><a href="http://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-3-1.html" target="_blank">校园公告</a></li>
+      <li><a href="http://www.tsinghua.edu.cn/publish/newthu/newthu_cnt/intothu/intothu-3.html" target="_blank">实用信息</a></li>
+      <li><a href="http://www.tsinghua.org.cn/publish/alumni/index.html" target="_blank">校友总会</a></li>
+     </ul>
+    </div>
+   </div>
+   <ul class="plink">
+    <li><a href="http://join-tsinghua.edu.cn/publish/bzw/index.html" target="_blank"><img src="static/picture/fimg-1.png" alt=""></a></li>
+    <li><a href="http://yz.tsinghua.edu.cn/" target="_blank"><img src="static/picture/fimg-2.jpg" alt=""></a></li>
+    <li><a href="http://www.artmuseum.tsinghua.edu.cn/" target="_blank"><img src="static/picture/fimg-3.png" alt=""></a></li>
+   </ul>
+  </div>
+  </div>
+  <div class="copy">
+   <div class="mainWrap">
+    <div class="en">
+     <a href="http://www.tsinghua.edu.cn/publish/thu2018en/index.html" target="_blank"><i class="icon-globe"></i> English</a>
+    </div>
+    <div class="contact">
+     <img src="static/picture/logo_1.svg" alt="">
+     <div class="txtwrapper">
+      <i class="icon-phone"></i> 010-62793001　<span><i class="icon-mail"></i> webmaster@tsinghua.edu.cn</span><br>
+ <i class="icon-location"></i> 威海市海淀区清华大学
+     </div>
+    </div>
+ <script language="javascript" type="text/javascript">
+ //<![CDATA[
+ $(document).ready(function(){
+   getResData();
+   //获取数据
+   function getResData(){
+  jQuery.getJSON("/application/visits/visits.jsp?sid=thu2018&r="+Math.random(), function(data){
+    $("#today").empty();
+    $("#today").append(data[0].today);
+    $("#total").empty();
+    $("#total").append(data[0].total);
+    $("#arverage").empty();
+    $("#arverage").append(data[0].arverage);     
+  });
+   };
+ });
+ //]]>
+ </script>
+    <div class="copyrights">
+     版权所有 © 清华大学<span>京公网安备 韩庆霖   荣成二中 110402430053 号</span><i class="icon-chart-bar"></i> <span id="total" style="padding:0;opacity:1;"></span>
+    </div>
+   </div>
+  </div>
+ 
+</div></body>
+</html>
+<!--#end head#--><!--#css#--><!--#end css#--><!--#js#--><!--#end js#-->
